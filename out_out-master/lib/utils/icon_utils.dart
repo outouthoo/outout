@@ -1,0 +1,16 @@
+const String bg_splash = 'assets/images/bg_splash.jpg';
+const String splash_logo = 'assets/images/splash_logo.png';
+const String back_arrow_filled = 'assets/images/back_arrow_filled.png';
+const String back_arrow_outline = 'assets/images/back_arrow_outline.png';
+const String out_out_actionbar = 'assets/images/out_out_actionbar.png';
+const String test_image = 'assets/images/test.jpg';
+const String new_dummy = 'assets/images/new_dummy.jpg';
+const String new_new_dummy = 'assets/images/new_new_dummy.jpg';
+const String person_placeholder = 'assets/images/person_placeholder.jpg';
+const String hanger_icon = 'assets/images/ic_hanger.png';
+const String blind_emoji = 'assets/images/blind_emoji.png';
+const String sml_glass = 'assets/images/sml_glass.png';
+const String verify = 'assets/images/verify.png';
+const String addFriend = 'assets/images/add_friend.png';
+const String once = 'assets/images/once.png';
+const String homeTag = 'assets/images/tag.png';
